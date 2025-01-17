@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 📚 About Me  
 
-I'm a passionate self-taught developer currently exploring **Web development technologies** focusing on **Full stack development MERN)**. I enjoy creating simple yet functional projects to hone my skills in web development.  
+I'm a passionate self-taught developer currently exploring **Web development technologies** focusing on **Full stack development (MERN)**. I enjoy creating simple yet functional projects to hone my skills in web development.  
 
 🌱 **Currently Learning:** Web development
 

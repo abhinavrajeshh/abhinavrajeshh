@@ -10,29 +10,33 @@ Welcome to my GitHub profile!
 ## 📚 About Me  
 
 I'm a passionate self-taught developer currently exploring **Web development technologies** focusing on **Full stack development**. I enjoy creating simple yet functional projects to hone my skills in web development.  
+
 🌱 **Currently Learning:** Web development
+
 🚀 **Goal:** To become a professional Fullstack Dev! 
 
 ---
 
 ## 🔧 Technologies I Know  
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-gray?logo=express&logoColor=white)  
-![React.js](https://img.shields.io/badge/React.js-blue?logo=react&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+</p>
 
 
 ---
 
 ## 🤝 Get in Touch  
 
-🌐 **My Card:** [Click here](https://abhinavrajeshh.carrd.co/)  
+🌐 **My Card:** [Checkout my card here](https://abhinavrajeshh.carrd.co/)  
 📧 **Email:** [Contact me](mailto:abhinavrajeshworks@gmail.com)  
 💼 **LinkedIn:** [Connect me](https://linkedin.com/in/abhinavrajeshh)  
 

@@ -30,8 +30,8 @@ I'm a passionate self-taught developer currently exploring **Web development tec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="Netlify" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vercel_logo.svg/1200px-Vercel_logo.svg.png" alt="Vercel" width="50" height="50" />
+  <img src="https://api.iconify.design/logos/netlify.svg" alt="Netlify" width="50" height="50" />
+  <img src="https://api.iconify.design/simple-icons/vercel.svg" alt="Vercel" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />

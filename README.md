@@ -1,7 +1,5 @@
-# Hi there! 👋 I'm Abhinav  
+  # Hi there! 👋 I'm Abhinav  
 
-Welcome to my GitHub profile!  
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=blue&width=500&lines=Hi+there!+👋+I'm+Abhinav.;A+self-taught+developer+exploring+web+development.;Welcome+to+my+GitHub!)](https://github.com/abhinavrajeshh)
 
 ---
@@ -49,3 +47,4 @@ I'm a passionate self-taught developer currently exploring **Web development tec
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue)  

@@ -1,8 +1,6 @@
-  # Hi there! 👋 I'm Abhinav  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=blue&width=500&lines=Hi+there!+👋+I'm+Abhinav.;A+self-taught+developer+exploring+web+development.;Welcome+to+my+GitHub!)](https://github.com/abhinavrajeshh)
 ---
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=blue&width=500&lines=Hi+there!+👋+I'm+Abhinav.;A+self-taught+developer+exploring+web+development.;Welcome+to+my+GitHub!)](https://github.com/abhinavrajeshh)
 
 ## 📚 About Me  
 

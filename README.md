@@ -38,10 +38,10 @@ I'm a passionate self-taught developer currently exploring **Web development tec
 
 ## 🤝 Get in Touch  
 
-🌐 **My Card:** [Checkout](https://abhinavrajesh.carrd.co/)  
+💼 **LinkedIn:** [Connect me](https://linkedin.com/in/abhinavrajeshh) 
 📧 **Email:** [Contact me](mailto:abhinavrajeshworks@gmail.com)  
-💼 **LinkedIn:** [Connect me](https://linkedin.com/in/abhinavrajeshh)  
-
+🌐 **Checkout my card:** [Checkout](https://abhinavrajesh.carrd.co/)  
+ 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue)  

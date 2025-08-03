@@ -4,13 +4,11 @@
 
 ## 📚 About Me
 
-BCA student  
-Learning MERN stack  
-Self-taught and project-focused  
-Interested in full-stack web development  
-Writing clean, functional code  
-Improving every day through practice  
-Currently learning React and backend basics
+- BCA student 
+- Self-Learner 
+- Interested in Full-stack Development  
+- Writing clean, functional code  
+- Improving every day through practice  
 
 ---
 
@@ -21,25 +19,7 @@ Currently learning React and backend basics
 - React.js, Node.js, Express.js  
 - MongoDB  
 - Git, GitHub  
-- VS Code, Figma  
-
----
-
-## 📈 Current Focus
-
-- Building real-world full-stack projects  
-- Strengthening React fundamentals  
-- Learning backend concepts with Node & Express  
-- Becoming job-ready as a full-stack developer  
-
----
-
-## 🎯 Goals
-
-- Complete the MERN stack roadmap  
-- Build a strong developer portfolio  
-- Land a web development internship or job  
-- Stay consistent with learning and building  
+- VS Code, Figma
 
 ---
 

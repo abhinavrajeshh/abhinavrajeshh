@@ -4,8 +4,7 @@
 
 ## 📚 About Me
 
-- BCA student 
-- Self-Learner 
+- BCA student | Self Learner
 - Interested in Full-stack Development  
 - Writing clean, functional code  
 - Improving every day through practice  
@@ -27,7 +26,7 @@
 
 - LinkedIn: [abhinavrajeshh](https://linkedin.com/in/abhinavrajeshh)  
 - Email: [abhinavrajeshworks@gmail.com](mailto:abhinavrajeshworks@gmail.com)  
-- Portfolio: [abhinavrajesh.carrd.co](https://abhinavrajesh.carrd.co)  
+- Card: [abhinavrajesh.carrd.co](https://abhinavrajesh.carrd.co)  
 
 ---
 

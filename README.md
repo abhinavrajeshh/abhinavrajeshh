@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=blue&width=500&lines=Hi+there!+👋+I'm+Abhinav.;Welcome+to+my+GitHub!)](https://github.com/abhinavrajeshh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=blue&width=500&lines=Hi+there!+👋+I'm+Abhinav+Rajesh.;Welcome+to+my+GitHub!)](https://github.com/abhinavrajeshh)
 
 ---
-
 ## 📚 About Me
 
 - BCA student | Self Learner

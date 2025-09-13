@@ -25,7 +25,6 @@
 
 - LinkedIn: [abhinavrajeshh](https://linkedin.com/in/abhinavrajeshh)  
 - Email: [abhinavrajeshworks@gmail.com](mailto:abhinavrajeshworks@gmail.com)  
-- Card: [abhinavrajesh.carrd.co](https://abhinavrajesh.carrd.co)  
 
 ---
 

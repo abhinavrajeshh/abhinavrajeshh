@@ -3,21 +3,27 @@
 ---
 ## 📚 About Me
 
-- BCA student | Self Learner
-- Interested in Full-stack Development  
-- Writing clean, functional code  
-- Improving every day through practice  
+- BCA student | Self Learner  
+- Currently learning Web Development through **The Odin Project**  
+- Building strong fundamentals in HTML, CSS, and JavaScript  
+- Consistently improving through daily practice  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript  
-- Tailwind CSS, Bootstrap  
-- React.js, Node.js, Express.js  
-- MongoDB  
-- Git, GitHub  
-- VS Code, Figma
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🚀 Current Focus
+
+- Completing The Odin Project Foundations  
+- Improving my skills 
 
 ---
 
@@ -28,5 +34,4 @@
 
 ---
 
- <!--![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue) -->
-
+<!--![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue) -->

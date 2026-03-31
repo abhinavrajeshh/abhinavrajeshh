@@ -54,14 +54,6 @@
 
 ---
 
-🔥 *Consistency > Motivation*
 
 
-## 📬 Connect With Me
-
-- LinkedIn: [abhinavrajeshh](https://linkedin.com/in/abhinavrajeshh)  
-- Email: [abhinavrajeshworks@gmail.com](mailto:abhinavrajeshworks@gmail.com)  
-
----
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue) -->
+[Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue)

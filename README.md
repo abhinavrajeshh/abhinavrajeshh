@@ -52,8 +52,3 @@
 * 🔗 LinkedIn: https://linkedin.com/in/abhinavrajeshh
 * 📧 Email: [abhinavrajeshworks@gmail.com](mailto:abhinavrajeshworks@gmail.com)
 
----
-
-
-
-[Profile Views](https://komarev.com/ghpvc/?username=abhinavrajeshh&color=blue)
